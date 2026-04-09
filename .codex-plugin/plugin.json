@@ -1,0 +1,20 @@
+{
+  "name": "crew",
+  "version": "0.1.0",
+  "description": "Crew orchestration — launch and manage agents in persistent screen sessions.",
+  "author": {
+    "name": "Tim Garthwaite",
+    "url": "https://github.com/mividtim"
+  },
+  "repository": "https://github.com/agiterra/crew-codex",
+  "license": "MIT",
+  "keywords": ["crew", "agent", "screen", "orchestration", "mcp"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Crew",
+    "shortDescription": "Multi-agent orchestration with iTerm2 pane management",
+    "developerName": "Agiterra",
+    "category": "Developer Tools"
+  }
+}
